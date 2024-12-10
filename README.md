@@ -1,1 +1,1 @@
-# SocialX-Profile-RecommenderSocialX-Profile-Recommender
+# SocialX-Profile-Recommender
